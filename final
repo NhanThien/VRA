@@ -1,3 +1,7 @@
 Dataset : CIFAR-10  (10 labels, 50.000 train , 10000 test )
 Method : CNN (keras)
 Accuracy : 70.87% 
+///// 
+Train 2time : 
+
+Accuracy : 79.84% 
