@@ -14,4 +14,20 @@ Classificaton image nude or not nude using Deeplearning.
 4. Resutl : 
 some result  ( Screenshot xxxx )
 
-  
+5. How to train and testing 
+
+Require : keras, sklearn, imutils, matplotlib, scipy, cv2,
+Training : 
+Folow folder : | images | nude     | 000000xxx.jpg
+               |        | not_nude | 00000xxx.jpg
+               | newCNN.py (or newCNN_V2.py)
+               
+Run : python newCNN.py --dataset images --model nude_not_nude.model 
+
+Testing  : 
+Follor folder : | images | examples | nudexxx.jpg 
+                | test_network.py 
+                
+             
+Run :   python test_network.py --model nude_not_nude.model \--image images/examples/nude01.png
+
