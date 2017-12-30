@@ -1,3 +1,5 @@
 From Dataset : Binary Classifier Nude / Not_Nude
 CNN (2 layer)
 Accuracy: 89.50%
+CNN (6 layer)
+Accuracy:  90.61%
