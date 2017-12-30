@@ -1,0 +1,17 @@
+Classificaton image nude or not nude using Deeplearning. 
+
+1.Newdataset 
+  Include :  data training and testing . 
+  Inclcude  : nude_not_nude_V1.model (CNN 2 layers) , nude_not_nude.model (CNN 6 layers)
+2. Code 
+  newCNN.py : CNN 2 layers
+  newCNN_V2.py : CNN 6 layers
+3. Test :
+  test_network.py : code test 
+3. NewAccuray : 
+  Add result after testing  CNN.
+
+4. Resutl : 
+some result  ( Screenshot xxxx )
+
+  
