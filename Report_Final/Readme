@@ -8,13 +8,13 @@ Classificaton image nude or not nude using Deeplearning.
   newCNN_V2.py : CNN 6 layers
 3. Test :
   test_network.py : code test 
-3. NewAccuray : 
+4. NewAccuray : 
   Add result after testing  CNN.
 
-4. Resutl : 
+5. Resutl : 
 some result  ( Screenshot xxxx )
 
-5. How to train and testing 
+6. How to train and testing 
 
 Require : keras, sklearn, imutils, matplotlib, scipy, cv2,
 Training : 
