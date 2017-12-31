@@ -29,5 +29,5 @@ Follor folder : | images | examples | nudexxx.jpg
                 | test_network.py 
                 
              
-Run :   python test_network.py --model nude_not_nude.model \--image images/examples/nude01.png
+Run :   python test_network.py --model nude_not_nude.model \--image images/examples/nude01.jpg
 
