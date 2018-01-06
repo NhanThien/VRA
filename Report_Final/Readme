@@ -31,3 +31,11 @@ Follor folder : | images | examples | nudexxx.jpg
              
 Run :   python test_network.py --model nude_not_nude.model \--image images/examples/nude01.jpg
 
+7. Video Training and testing 
+
+   Training : https://drive.google.com/drive/folders/1a26Ewzazdzs992Vr2WMK0QqTp5zfNkYQ 
+   Testing  : https://drive.google.com/open?id=1uSGQMltG7tsXkRWXIJLICpL3YgNk2BQ1
+
+
+
+
